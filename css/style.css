@@ -10,3 +10,7 @@ img {
     width: 200px;
     height:auto;
 }
+
+h2, h3 {
+    border-bottom: 1px solid green;
+}
